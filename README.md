@@ -2,7 +2,7 @@
 
 My real name is Philip Mcgeehan
 
-I am a softwre developer with broad experience. Over the course of my career I have worked on a broad reange of technologies for projects of varying scales, from large scale implementations down to simpler microservice style implementations.
+I am a software developer with broad experience. Over the course of my career I have worked on a broad reange of technologies for projects of varying scales, from large scale implementations down to simpler microservice style implementations.
 
 In all of the projects I have undertaken I have chosen to embrace the business case to the best of my understanding and use that knowledge to help in the delivery of best of breed solutions within the confines and capabilities of the platform that delivery is part of.
 
@@ -12,9 +12,9 @@ As part of helping you understand my capabilities and seeing that they marry aga
 
 See https://github.com/lesserbob/mfs-character-builder
 
-📫 How to reach me:
-Email : philip_mcgeehan@yahoo.com.au
-Mobile : 0416431958
+📫 How to reach me:<br/>
+Email : philip_mcgeehan@yahoo.com.au<br/>
+Mobile : 0416431958<br/>
 
 <!--
 **lesserbob/lesserbob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
