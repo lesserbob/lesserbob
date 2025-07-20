@@ -12,6 +12,8 @@ As part of helping you understand my capabilities and seeing that they marry aga
 
 See https://github.com/lesserbob/mfs-character-builder
 
+For AWS deployed version, see https://d22cbvleeb4smp.cloudfront.net/
+
 📫 How to reach me:<br/>
 Email : philip_mcgeehan@yahoo.com.au<br/>
 Mobile : 0416431958<br/>
